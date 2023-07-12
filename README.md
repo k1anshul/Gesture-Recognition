@@ -32,6 +32,6 @@ The training data consists of a few hundred videos categorised into one of the f
 
 ### Results:
 
-![observations](<img width="356" alt="image" src="https://github.com/k1anshul/Gesture-Recognition/assets/60307418/c757d687-3d47-497a-9305-1bfd60741b94">)
+<img width="800" alt="image" src="https://github.com/k1anshul/Gesture-Recognition/assets/60307418/036c8e33-b3a7-4b7b-b20b-4aa377490ef4">
 
-After conducting various experiments, it has been observed that the CNN-LSTM model architecture, as implemented in Experiment 3, outperforms other models on the Gesture Recognition dataset. Therefore, the pretrained Xception model combined with an LSTM layer is considered the champion model for this dataset.
+<br>After conducting various experiments, it has been observed that the CNN-LSTM model architecture, as implemented in Experiment 3, outperforms other models on the Gesture Recognition dataset. Therefore, the pretrained Xception model combined with an LSTM layer is considered the champion model for this dataset.
